@@ -1,9 +1,9 @@
-# CE{Code of Course}-{Short Name of Course}
-Solutions to Prof. {Name of Prof}'s CE{Code of Course}: {Full Name of Course} ({Name of Uni} - {Semester} {Year}) Assignments
+# CE212-LD
+Solutions to Dr. Bayat-Sarmadi's CE212: Logic Design (Sharif University of Technology - Spring 203) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments for the CE{Code of Course}: {Full Name of Course} course at the {Name of Uni}, {Semester} {Year}, taught by Prof. {Name of Prof}.
+This repository contains solutions to the assignments for the CE212: Logic Design course at the Sharif University of Technology, Spring 203, taught by Dr. Bayat-Sarmadi.
 
 ## Table of Contents
 
